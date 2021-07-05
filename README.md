@@ -1,3 +1,3 @@
 # Blog-Website
-# This is my first attempt at designing a website using Django
-# For this website, I followed Corey Schafer's YT series
+# It is a blog website which provides user registration functionality.
+# Signed in users can create blog posts.
